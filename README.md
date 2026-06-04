@@ -41,6 +41,7 @@ docker compose up -d
 
 **4. Open in browser**
 http://localhost
+
 **5. Complete WordPress setup through the web interface**
 
 ## Architecture
